@@ -11,6 +11,7 @@ Each problem has its own folder containing:
 | # | Problem | Difficulty | Folder |
 |---|---------|-----------|--------|
 | 1 | Two Sum | Easy | [`two-sum/`](./two-sum) |
+| 2 | Add Two Numbers | Medium | [`add-two-numbers/`](./add-two-numbers) |
 
 ## Running tests
 
