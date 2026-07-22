@@ -12,6 +12,7 @@ Each problem has its own folder containing:
 |---|---------|-----------|--------|
 | 1 | Two Sum | Easy | [`two-sum/`](./two-sum) |
 | 2 | Add Two Numbers | Medium | [`add-two-numbers/`](./add-two-numbers) |
+| 9 | Palindrome Number | Easy | [`palindrome-number/`](./palindrome-number) |
 
 ## Running tests
 
